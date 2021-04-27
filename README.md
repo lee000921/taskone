@@ -27,10 +27,10 @@ printf("Hello");
 
 
 
-| number | content |
+| h1 | h2 |
 | ------ | ------- |
-| First  | cpp   |
-| Second  | java |
+| 1st  | cpp   |
+| 2nd  | java |
 
 
 
